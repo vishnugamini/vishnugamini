@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnu Gamini</h1>
 <h3 align="center">fancy self-learning, only way to learn something effectively rather than depending on someone else. Intrigued by web development. Especially fascinated by the backend web technologies.</h3>
 
-- 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning web development tools and reinforce them by implementing projects. **bank app**
+- 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning web development tools and reinforce them by implementing projects.
 
 - 🌱 I’m currently learning **javascript and sql**
 
