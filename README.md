@@ -13,7 +13,7 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 
 - ⚡ **the fact that there are numerous amount of technologies that I still haven't heard of makes me wanna constantly browse and read to get to know about new things.**
 
-<img align="right" alt="CodingGIF" width=587
+<img align="right" alt="CodingGIF" width=600
     src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <h3 align="left">Connect with me:</h3>
