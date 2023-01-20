@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Vishnu%20&width=500&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋,%20I'm%20Vishnu%20&width=500&height=300&align="center")](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Vishnu Gamini</h1>
 <h3 align="center">fancy self-learning, only way to learn something effectively rather than depending on someone else. Intrigued by web development. Especially fascinated by the backend web technologies.</h3>
 
