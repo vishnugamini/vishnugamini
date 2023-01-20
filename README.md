@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hi 👋, I'm Vishnu Gamini&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Vishnu Gamini</h1>
 <h3 align="center">fancy self-learning, only way to learn something effectively rather than depending on someone else. Intrigued by web development. Especially fascinated by the backend web technologies.</h3>
 
