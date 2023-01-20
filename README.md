@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vishnu Gamini</h1>
 <h3 align="center">fancy self-learning, only way to learn something effectively rather than depending on someone else. Intrigued by web development. Especially fascinated by the backend web technologies.</h3>
 
+- 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning web development tools and reinforce them by implementing projects. **bank app**
+
 - 🌱 I’m currently learning **javascript and sql**
 
 - 📫 How to reach me **gamini.vishnu@gmail.com**
+
+- ⚡ Fun fact **the fact that there are numerous amount of technologies that I still haven't heard of makes me wanna constantly browse and read to get to know about new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
