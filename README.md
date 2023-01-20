@@ -1,3 +1,4 @@
+[![SVG
 Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Lair%20👨‍💻&width=1200&height=250)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Vishnu Gamini</h1>
 <h3 align="center">fancy self-learning, only way to learn something effectively rather than depending on someone else. Intrigued by web development. Especially fascinated by the backend web technologies.</h3>
