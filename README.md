@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gamini.vishnu@gmail.com**
 
-- ⚡ Fun fact **the fact that there are numerous amount of technologies that I still haven't heard of makes me wanna constantly browse and read to get to know about new things.**
+- ⚡ **the fact that there are numerous amount of technologies that I still haven't heard of makes me wanna constantly browse and read to get to know about new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
