@@ -7,7 +7,7 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 
 - 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning web development tools and reinforce them by implementing projects.
 
-- 🌱 I’m currently learning **javascript and sql**
+- 🌱 At the moment learning **javascript and sql**
 
 - 📫 How to reach me **gamini.vishnu@gmail.com**
 
