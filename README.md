@@ -1,17 +1,19 @@
 [![SVG
 Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Dungeon%20🔗&width=1200&height=250)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Vishnu Gamini</h1>
-<h3 align="center">fancy self-learning, only way to learn something effectively rather than relying on someone else. Intrigued by web development. Especially fascinated by the backend web technologies.</h3>
+<h1 align="center">Hi 👋, I'm Vishnu </h1>
+<h3 align="center">I am an aspiring machine learning enthusiast who is passionate about developing skills related to AI and ML. My current focus is on learning and mastering machine learning techniques, algorithms, and tools to solve complex problems in various domains. I believe in continuous learning, and I am always exploring new technologies and techniques to enhance my knowledge and expertise. </h3>
 
 
 
-- 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning web development tools and reinforce them by implementing projects.
+- 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning Node.js for web development and Flutter for mobile app development. I am confident that my combination of machine learning and web/mobile development skills will enable me to create innovative solutions that leverage the power of AI.
+- 
+- In addition to my passion for machine learning, I am also expanding my skill set by learning Node.js for web development and Flutter for mobile app development. 
 
-- 🌱 At the moment learning **javascript and sql**
+- 🌱 At the moment learning **Deep learning**
 
 - 📫 How to reach me **gamini.vishnu@gmail.com**
 
-- ⚡ **the fact that there are numerous amount of technologies that I still haven't heard of makes me wanna constantly browse and read to get to know about new things.**
+- ⚡ **One of my strengths is my ability to think creatively when it comes to problem-solving. I enjoy tackling challenges and exploring multiple approaches to solving complex problems. I prefer to take a hands-on approach to mastering new skills and techniques, and I am committed to continuous learning and growth.**
 
 <img align="right" alt="CodingGIF" width=600
     src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
