@@ -5,11 +5,9 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 
 
 
-- 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning Node.js for web development and Flutter for mobile app development. I am confident that my combination of machine learning and web/mobile development skills will enable me to create innovative solutions that leverage the power of AI.
-- 
-- In addition to my passion for machine learning, I am also expanding my skill set by learning Node.js for web development and Flutter for mobile app development. 
+- 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning Node.js for web development and Flutter for mobile app development. I am confident that my combination of machine learning and web/mobile development skills will enable me to create innovative solutions that leverage the power of AI. 
 
-- 🌱 At the moment learning **Deep learning**
+- 🌱 At the moment learning **Deep learning and Node.js**
 
 - 📫 How to reach me **gamini.vishnu@gmail.com**
 
