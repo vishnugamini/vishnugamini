@@ -1,6 +1,6 @@
 [![SVG
 Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Dungeon%20🔗&width=1200&height=250)](https://github.com/Akshay090/svg-banners)
-<h1 align="center">Hi 👋, I'm Vishnu </h1>
+<h1 align="center">Hey, I'm Vishnu </h1>
 <h3 align="center">I am an aspiring machine learning enthusiast who is passionate about developing skills related to AI and ML. My current focus is on learning and mastering machine learning techniques, algorithms, and tools to solve complex problems in various domains. I believe in continuous learning, and I am always exploring new technologies and techniques to enhance my knowledge and expertise. </h3>
 
 
