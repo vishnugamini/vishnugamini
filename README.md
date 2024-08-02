@@ -1,13 +1,13 @@
 [![SVG
 Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Dungeon%20🔗&width=1200&height=250)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hey, I'm Vishnu </h1>
-<h3 align="center">I am an aspiring machine learning enthusiast who is passionate about developing skills related to AI and ML. My current focus is on learning and mastering machine learning techniques, algorithms, and tools to solve complex problems in various domains. I believe in continuous learning, and I am always exploring new technologies and techniques to enhance my knowledge and expertise. </h3>
+<h3 align="center">I am dedicated to developing skills in AI and ML, focusing on mastering Deep learning techniques, algorithms, and tools to solve complex problems in various domains. I believe in continuous learning and consistently explore new technologies and methodologies to enhance my knowledge and expertise.</h3>
 
 
 
 - 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning Node.js for web development and Flutter for mobile app development. I am confident that my combination of machine learning and web/mobile development skills will enable me to create innovative solutions that leverage the power of AI. 
 
-- 🌱 At the moment learning **Deep learning and Node.js**
+- 🌱 At the moment learning **Transformer Neural Networks and Node.js**
 
 - 📫 How to reach me **gamini.vishnu@gmail.com**
 
