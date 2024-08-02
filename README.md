@@ -18,9 +18,8 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vishnu gamini" target="blank"><img align="center" src="https://www.linkedin.com/in/vishnu-gamini/" alt="vishnu gamini" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishnu gamini" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://leetcode.com/u/user2212w/)" alt="vishnu gamini" height="30" width="40" /></a>
-<a href="https://discord.gg/0820" target="blank"><img align="center" src="" alt="0820" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishnu-gamini/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishnu-gamini/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/user2212w/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user2212w/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
