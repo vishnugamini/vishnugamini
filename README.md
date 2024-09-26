@@ -5,13 +5,19 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 
 
 
-- 🔭 I’m currently trying to enhance my skill-set by majorly focusing on learning Node.js for web development and Flutter for mobile app development. I am confident that my combination of machine learning and web/mobile development skills will enable me to create innovative solutions that leverage the power of AI. 
+- 🔭 I’m currently trying to enhance my skills inL
+    - `Transformer Neural Networks`
+    - `Multimodal Transformers`
+    - `Diffusion Models`
+    - `Mastering PyTorch fundamentals`
 
-- 🌱 At the moment learning **Transformer Neural Networks and Node.js**
+- 🌱  I occasionally implement research papers to gain a deeper understanding of advanced topics in deep learning.
+
+- ⚡ On the side, I keep refreshing my Node.js fundamentals by building projects every now and then. My most recent project: securechat.world
 
 - 📫 How to reach me **gamini.vishnu@gmail.com**
 
-- ⚡ **One of my strengths is my ability to think creatively when it comes to problem-solving. I enjoy tackling challenges and exploring multiple approaches to solving complex problems. I prefer to take a hands-on approach to mastering new skills and techniques, and I am committed to continuous learning and growth.**
+- 📫 **One of my strengths is my ability to think creatively when it comes to problem-solving. I enjoy tackling challenges and exploring multiple approaches to solving complex problems. I prefer to take a hands-on approach to mastering new skills and techniques, and I am committed to continuous learning and growth.**
 
 <img align="right" alt="CodingGIF" width=600
     src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
