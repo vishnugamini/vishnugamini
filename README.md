@@ -3,9 +3,7 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 <h1 align="center">Hey, I'm Vishnu </h1>
 <h3 align="center">I am dedicated to developing skills in AI and ML, focusing on mastering Deep learning techniques, algorithms, and tools to solve complex problems in various domains. I believe in continuous learning and consistently explore new technologies and methodologies to enhance my knowledge and expertise.</h3>
 
-
-
-- 🔭 I’m currently trying to enhance my skills inL
+- 🔭 I’m currently trying to enhance my skills in:
     - `Transformer Neural Networks`
     - `Multimodal Transformers`
     - `Diffusion Models`
