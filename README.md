@@ -11,7 +11,7 @@ Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%2
 
 - 🌱  I occasionally implement research papers to gain a deeper understanding of advanced topics in deep learning.
 
-- ⚡ On the side, I keep refreshing my Node.js fundamentals by building projects every now and then. My most recent project: securechat.world
+- ⚡ On the side, I keep refreshing my Node.js fundamentals by building projects every now and then. My most recent project: [securechat.world](https://www.securechat.world/)
 
 - 📫 How to reach me **gamini.vishnu@gmail.com**
 
